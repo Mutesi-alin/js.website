@@ -1,0 +1,82 @@
+
+
+#navbar ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    }
+
+#navbar li {
+   display: inline-block;
+margin-top: 20px;  
+         }
+header{
+    display: flex;
+    margin: 100px;
+}
+#nav-bar a{
+    text-decoration: none;
+    color: black;}
+    Available{
+        display: flex;
+        margin: 100px;
+    }
+    content{
+        display: flex;
+        margin: 100px;
+    }
+    .icon{
+        display: flex;
+        
+    }
+    .coc{
+        margin: 100px;
+    }
+    .girl{
+        display: flex;
+    }
+    .num{
+        display: flex;
+        gap: 45px;
+    }
+    .shop{
+        display: flex;
+    
+    }
+    .b{
+        display: flex;
+
+    }
+    
+    .aline{
+        display: flex;
+        
+    }
+    .aa{
+        display: flex;
+    }
+    .him{
+        display: flex;
+        border: color(rgb(241, 215, 215)) solid 1px;
+    }
+    .yego{
+        margin-left: 60px;
+    }
+    footer{
+        display: flex;
+    }
+    .mutesi{
+        display: flex;
+    }
+    
+button{
+    width: 100px;
+    padding: 15px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 25px;
+    color: blue;
+    
+
+}
+
