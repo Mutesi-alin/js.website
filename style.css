@@ -70,13 +70,65 @@ header{
     }
     
 button{
-    width: 100px;
-    padding: 15px;
-    text-align: center;
-    margin: 20px;
-    border-radius: 25px;
-    color: blue;
+    width: 170px;
+    height: 40px; ;
+
+    color:white;
+    background-color: black;
     
 
 }
+first{
+    display: flex;
+}
+.girl{
+    
+}
+.mun{
+    display: flex;
+    padding: 70px;
+}
 
+    form{
+        background-color: antiquewhite;
+        padding: 10%;
+    }
+
+
+.dible{
+    display: flex;
+    padding: 10%;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 0%;
+}
+
+
+.jacket{
+    display: flex;
+}
+.shirt{
+    display: flex;
+}
+.forher{
+    display: flex;}
+    .boys{
+        display: flex;
+    }
+    .boy{
+        display: flex;
+    }
+    @media screen {(max-width: 768px;)
+        
+
+
+        
+.jacket{
+    display: flex;
+    flex-wrap: 45px;
+}
+        
+        
+
+        
+    }
